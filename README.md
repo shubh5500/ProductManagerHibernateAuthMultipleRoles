@@ -1,6 +1,7 @@
 # ProductManagerHibernateAuthMultipleRoles
  Role basaed Security using MVC
-
+ 
+ 
 ## Start MySql
 /usr/local/mysql/bin/mysql -u root -p
 
@@ -72,3 +73,6 @@ localhost:8080
 ```
 
 NOTE: passwords of each user are same as usename
+
+
+
